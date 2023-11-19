@@ -6,7 +6,7 @@ This app is made for IHMTC 2023 conference by Microfluidics Lab IIT Patna. I hav
 
 App's Interface
 
-![1700334542796](https://github.com/meHypernova/Conference-Schedule/assets/146374681/f06fcd5d-e517-4b3e-bcba-104cee4baf75)(https://github.com/meHypernova/Conference-Schedule/raw/main/assets/146374681/f06fcd5d-e517-4b3e-bcba-104cee4baf75 | width=200)
+<img src="https://github.com/meHypernova/Conference-Schedule/blob/main/assets/146374681/f06fcd5d-e517-4b3e-bcba-104cee4baf75" alt="Your Image" width="200"/>
 
 
 
