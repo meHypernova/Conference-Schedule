@@ -4,12 +4,6 @@
 
 This app is made for IHMTC 2023 conference by Microfluidics Lab IIT Patna. I have done all the coding using android studio withing a week (7hr/day). If you know code very well ypu can made app like this 3 days.
 
-App's Interface
-
-![1700334542811](https://github.com/meHypernova/Conference-Schedule/raw/main/assets/146374681/f06fcd5d-e517-4b3e-bcba-104cee4baf75 | width=200)
-
-
-
 
 All Java Classes: 
 
@@ -18,6 +12,7 @@ All Java Classes:
 All XML Layouts:
 
 ![image](https://github.com/meHypernova/Conference-Schedule/assets/146374681/242a9490-bf9e-4f44-b3bb-cdf48e5c957d)
+
 
 
 
