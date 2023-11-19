@@ -6,7 +6,7 @@ App's Structure has used: Recycler, TabLayout, CardView, Recycler (Hidden) etc
 
 This app is made for IHMTC 2023 conference by Microfluidics Lab IIT Patna. I have done all the coding using android studio withing a week (7hr/day). If you know code very well ypu can made app like this 3 days.
 
-App's Interface: 
+App's Interface: In Android Studio
 
 ![image](https://github.com/meHypernova/Conference-Schedule/assets/146374681/7015077b-0b94-4563-b60b-f2e312258386)
 
