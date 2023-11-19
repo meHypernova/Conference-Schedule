@@ -1,4 +1,4 @@
-# Conference-Schedule: You can use this app to show any even's schedule or do modification as you required.
+# Conference-Schedule: You can use this app to show any event's schedule or do modification as you required.
 
 #Note: The UI of this app is not new/first. I have taken refernce from IIT Roorkee's FMFP 2022 app. But the whole code is written from scratch. 
 
