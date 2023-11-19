@@ -1,6 +1,7 @@
 This app is made for IHMTC 2023 conference by Microfluidics Lab IIT Patna. I have done all the coding using android studio withing a week (7hr/day). If you know code very well you can make an app like this withing 2-3 days.
 
-# Conference-Schedule: You can use this app to show any event's schedule or do modification as you required.
+# Conference-Schedule:
+ You can use this app to show any event's schedule or do modification as you required.
 
 App's Structure has used: Recycler, TabLayout, CardView, Recycler (Hidden) etc
 
