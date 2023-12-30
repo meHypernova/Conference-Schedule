@@ -1,5 +1,7 @@
 This app is made for IHMTC 2023 conference by Microfluidics Lab IIT Patna. I have done all the coding using android studio (XML + Java). If you know code very well you can make an app like this withing 2-3 days.
 
+More details about the app: The app's primary goal was to elevate your IHMTC experience by offering a detailed and organized schedule. Imagine having a compact tool in your pocket that enables you to explore events based on the day, providing insights into energy transfer, mass transport, and various industrial applications. The schedule, neatly categorized by day, ensures that you stay informed about each session, allowing you to plan your participation effectively.
+
 Download app from MI Store: https://global.app.mi.com/details?lo=IN&la=en_US&id=com.example.ihmtc2023
 
 App's Structure has used: Recycler, TabLayout, CardView, Recycler (Hidden) etc
