@@ -3,6 +3,7 @@ This app is made for IHMTC 2023 conference by Microfluidics Lab IIT Patna. I hav
 App's Structure has used: Recycler, TabLayout, CardView, Recycler (Hidden) etc
 
 App's Interface: In Android Studio
+
 ![pic1](https://github.com/meHypernova/Conference-Schedule/assets/146374681/271a8f87-71fe-4d7c-af6f-3671a274feae)
 ![pic2](https://github.com/meHypernova/Conference-Schedule/assets/146374681/53743884-5169-4aa8-9d89-a1148091250f)
 ![pic3](https://github.com/meHypernova/Conference-Schedule/assets/146374681/39dac971-07a0-4902-9407-744208a1dacd)
@@ -14,8 +15,13 @@ App's Interface: In Android Studio
 ![image](https://github.com/meHypernova/Conference-Schedule/assets/146374681/53d4c01e-79dc-4c8c-a7ea-90312a856477)
 
 
+
+
+
 MainActivity.Java
 ![image](https://github.com/meHypernova/Conference-Schedule/assets/146374681/ac2cf898-401f-40e7-875a-0be8f11b840c)
+
+![image](https://github.com/meHypernova/Conference-Schedule/assets/146374681/92d0b179-f560-4451-a536-c695cec4abe4)
 
 
 
